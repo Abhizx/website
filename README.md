@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/okfn/website.svg?branch=master)](https://travis-ci.org/okfn/website)
 [![Coverage Status](https://coveralls.io/repos/github/okfn/website/badge.svg?branch=master)](https://coveralls.io/github/okfn/website?branch=master)
-
+Django is very useful also
 This is the [Django](https://www.djangoproject.com/)/[Django CMS](https://www.django-cms.org/) project that runs <http://okfn.org>.
 
 ## Prerequisites and assumptions
